@@ -1,3 +1,7 @@
+
+dataset/trimodel/Scene 1/*
+dataset/trimodel/Scene 2/*
+dataset/trimodel/Scene 3/*
 # Byte-compiled / optimized / DLL files
 __pycache__/
 *.py[cod]
